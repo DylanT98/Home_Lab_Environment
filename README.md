@@ -7,4 +7,13 @@ This repository documents my home lab setup, built to gain hands on experience w
 **Host OS:** Windows 11 Home
 **Hypervisor** Oracle VirtualBox
 **ServerOS:** Microsoft Windows Server Datacenter Evaluation
-**Virtual Network:** 
+**Virtual Network:** Bridged Adapter for host parity
+
+## Lab Objectives
+* **Active Directory Management:** Implementing users, groups, and GPOs.
+* **Network Administration:** Managing DHCP, DNS, and static IP routing.
+* **Virtualization:** Optimizing VirtualBox performance and snapshots.
+* **Troubleshooting:** Documenting real-world errors and systematic resolution processes.
+
+* ## Documentation
+For a detailed look at the challenges faced and resolved during this project, please refer to the [Troubleshooting Log].
