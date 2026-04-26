@@ -12,7 +12,9 @@ Domain Controller Setup <img width="2559" height="1439" alt="DomainControllerSet
 
 
 
-## [2026-04-26] Security Policy: Password Compliance Baseline
+
+
+## Security Policy: Password Compliance Baseline
 * **Objective:** Implement an enterprise-standard password security baseline to mitigate credential-based attacks.
 * **Configuration:**
     * **Maximum password age:** 30 days.
