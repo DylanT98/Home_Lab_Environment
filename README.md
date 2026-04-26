@@ -16,4 +16,4 @@ This repository documents my home lab setup, built to gain hands on experience w
 * **Troubleshooting:** Documenting real-world errors and systematic resolution processes.
 
 * ## Documentation
-For a detailed look at the challenges faced and resolved during this project, please refer to the Troubleshooting Log and Project Log.
+For a detailed look at the infrastructure deployment milestones, security policy configurations, and technical troubleshooting incidents, please refer to the Troubleshooting Log and Project Log.
