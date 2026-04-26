@@ -8,3 +8,5 @@
 ### Network Configuration
 * **Status:** Static IPv4 assigned (192.168.0.200).
 * **Troubleshooting Note:** Initially lost connectivity due to a gateway mismatch between the VM (10.x.x.x) and the physical network (192.168.0.x). Resolved by updating the VirtualBox adapter to 'Bridged' mode and manually configuring the Gateway to match the home router (192.168.0.1).
+
+
