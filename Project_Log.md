@@ -8,3 +8,4 @@
 * **Status:** Resolved.
 * **Outcome:** Successfully established a root domain controller, enabling centralized user authentication, group policy management, and organizational structure via Organizational Units (OUs).
 
+![Domain Controller Setup] (<img width="2559" height="1439" alt="DomainControllerSetup" src="https://github.com/user-attachments/assets/c67879ba-d5a2-4980-aa9c-f68089b3cc03" />)
