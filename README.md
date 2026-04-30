@@ -1,5 +1,4 @@
 # Home_Lab_Environment: Windows Server 2025
-VM Client Name: 'Winserv'
 
 ## Project Overview
 This repository documents my home lab setup, built to gain hands on experience with enterprise-grade Windows Server administration. The lab simulates a small-enterprise environment using virtualization.
@@ -9,6 +8,7 @@ This repository documents my home lab setup, built to gain hands on experience w
 **Hypervisor** Oracle VirtualBox
 **ServerOS:** Microsoft Windows Server Datacenter Evaluation
 **Virtual Network:** Bridged Adapter for host parity
+**VM Client Name:** 'Winserv'
 
 ## Lab Objectives
 * **Active Directory Management:** Implementing users, groups, and GPOs.
