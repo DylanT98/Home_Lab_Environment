@@ -12,7 +12,7 @@
 <img width="2559" height="1439" alt="Ip configuring" src="https://github.com/user-attachments/assets/6c7e06e6-8451-483d-b91f-932696093ca9" />
 
 
-## Incident: Manual Account Lockout - User: jdoe
+## Incident: Manual Account Lockout - User: Mscott
 * **Issue:** User `Mscott` was unable to log in to the workstation (**Winserv**). System returned the error: "The referenced account is currently locked out."
 * **Diagnosis:** * Checked the Security Logs in **Event Viewer** on the Domain Controller.
     * Filtered for **Event ID 4740**.
